@@ -1,0 +1,4 @@
+model,n,correct,accuracy
+Gemma-3-1B-IT,120,27,0.225
+Llama-3.2-3B-Instruct,120,50,0.4166666666666667
+Qwen2.5-3B-Instruct,120,60,0.5

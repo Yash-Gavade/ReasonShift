@@ -1,0 +1,25 @@
+ReasonShift Final Dataset
+
+Total rows: 120
+Total original groups: 30
+
+Datasets:
+- CommonsenseQA: 10 groups / 40 inputs
+- GSM8K: 10 groups / 40 inputs
+- LogiQA: 10 groups / 40 inputs
+
+Conditions:
+- original: 30
+- lexical: 30
+- syntactic: 30
+- information_order: 30
+
+Human transformation audit:
+- audited transformations: 45
+- reviewed: 45/45
+- accepted: 45/45
+- acceptance rate: 100%
+
+Final dataset:
+data/validated/reasonshift_dataset.csv
+

@@ -1,0 +1,7 @@
+authors,year,venue,paper,focus,similarity_to_reasonshift,reasonshift_use
+"Srikanth, Carpuat & Rudinger",2024,TACL,How Often Are Errors in Natural Language Reasoning Due to Paraphrastic Variability?,Meaning-preserving paraphrases; reasoning consistency,Very high,Closest prior work; use as primary robustness baseline and novelty boundary.
+Elgaar & Amiri,2025,Findings EMNLP,Linguistically-Controlled Paraphrase Generation,Fine-grained controlled linguistic attributes,High,Supports controlled-transformation methodology; task is generation rather than downstream reasoning robustness.
+Xu et al.,2025,Findings ACL,Diagnosing Failures in Large Language Models' Answers,Fine-grained error attribution,Medium-high,Use to motivate failure diagnosis; ReasonShift focuses paired state transitions.
+Cobbe et al.,2021,arXiv / OpenAI,Training Verifiers to Solve Math Word Problems,GSM8K benchmark,Dataset,Math reasoning dataset reference.
+Talmor et al.,2019,NAACL,CommonsenseQA,Commonsense multiple-choice QA,Dataset,Commonsense reasoning dataset reference.
+Liu et al.,2021,AAAI/related corpus literature,LogiQA,Passage-level logical reasoning,Dataset,Logical reasoning task; distinct from prior StrategyQA use.

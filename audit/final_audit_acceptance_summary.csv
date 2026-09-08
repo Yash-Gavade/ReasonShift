@@ -1,0 +1,10 @@
+dataset,variant_type,count,sum,mean,percent
+commonsense_qa,information_order,5,0,0.0,0.0
+commonsense_qa,lexical,5,0,0.0,0.0
+commonsense_qa,syntactic,5,2,0.4,40.0
+gsm8k,information_order,5,2,0.4,40.0
+gsm8k,lexical,5,1,0.2,20.0
+gsm8k,syntactic,5,0,0.0,0.0
+logiqa,information_order,5,5,1.0,100.0
+logiqa,lexical,5,5,1.0,100.0
+logiqa,syntactic,5,5,1.0,100.0

@@ -1,0 +1,9 @@
+Rewrite the question by changing its grammatical/syntactic structure while preserving its exact meaning and correct answer.
+
+STRICT RULES:
+- Preserve every entity, number, condition, logical relation, and answer choice.
+- Do not add or remove facts.
+- You may change clause order, active/passive voice, coordination/subordination, or sentence structure.
+- Do not reverse semantic roles.
+- Do not alter negation, temporal relations, comparisons, or causal relations.
+- Output only the rewritten question.

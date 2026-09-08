@@ -1,0 +1,9 @@
+Rewrite the question using natural lexical substitutions while preserving its exact meaning and correct answer.
+
+STRICT RULES:
+- Preserve every entity, number, condition, logical relation, and answer choice.
+- Do not add or remove facts.
+- Do not change negation, modality, comparison direction, temporal relation, or causal relation.
+- Keep the reasoning operation unchanged.
+- Change wording primarily through synonyms or equivalent lexical expressions.
+- Output only the rewritten question.

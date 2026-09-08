@@ -1,0 +1,8 @@
+Rewrite the question by changing the order in which the existing facts are presented while preserving its exact meaning and correct answer.
+
+STRICT RULES:
+- Preserve all facts, entities, numbers, conditions, and answer choices exactly in meaning.
+- Do not add new information and do not remove information.
+- Reorder information only where the result remains natural and unambiguous.
+- Preserve temporal, causal, comparative, and logical dependencies.
+- Output only the rewritten question.

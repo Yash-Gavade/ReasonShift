@@ -1,0 +1,652 @@
+model,dataset,group_id,variant_type,direction,original_correct,variant_correct,original_answer,variant_answer,gold_answer,gold_label,original_raw_output,variant_raw_output
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_001,lexical,wrong_to_wrong,0,0,B,B,table,E,"B
+ஈ
+
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","B
+ஈ அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவு"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_002,lexical,wrong_to_correct,0,1,C,D,broken law,D,"C
+ replied with C.iete कदा","D
+ributed️"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_003,lexical,wrong_to_wrong,0,0,B,B,countryside,C,"B
+ஈ அறிவுரைfulfillediouiouiouiouiouiouiouiouiouiou","B
+ஈ அறிவுரைfulfillediouiouiouiouiouiouiouiouiouiou"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_004,lexical,wrong_to_wrong,0,0,A,A,choice,B,"A
+ی Understand why A is correct:
+
+The sentence states John felt his actions were fate. ""Fate"" refers to the idea that events are predetermined","A
+ی Understand why this is the correct answer:
+
+The question asks what Harry said John could have done differently.  ""Different what?"" refers to"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_005,lexical,correct_to_correct,1,1,A,A,family tree,A,"A
+tainedDentaltained
+tainedtained
+tained
+tained
+tained
+tained
+tainedtained","A
+3
+Step 3
+3"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_006,lexical,wrong_to_wrong,0,0,C,C,disturb,D,"C
+ஈ
+做到ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","C
+ஈ
+做到ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_016,lexical,correct_to_correct,1,1,A,A,relaxation,A,"A
+tainedlyAlles klar. repliedEnvironmental Science","A
+tainedly5"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_020,lexical,wrong_to_wrong,0,0,C,C,confusion,D,"C
+https://www.psychologytoday.com/us/blog/psychology-today/201806/why-","C
+ஈ அறிவுறுத்தலின்படி, பதில் C.அடிவचनம்.ஐ.
+:)"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_024,lexical,correct_to_correct,1,1,B,B,think,B,"B
+ஈ","B
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_030,lexical,wrong_to_wrong,0,0,B,B,being happy,C,"B
+ஈ","B
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_001,syntactic,wrong_to_wrong,0,0,B,B,table,E,"B
+ஈ
+
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","B
+ஈ அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_002,syntactic,wrong_to_wrong,0,0,C,C,broken law,D,"C
+ replied with C.iete कदा","C
+ஈமேற்கோள் 1000 कदाचितாகப் பயன்படுத்தப்பட்டது.Ethiopian language is a language of the"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_003,syntactic,wrong_to_wrong,0,0,B,B,countryside,C,"B
+ஈ அறிவுரைfulfillediouiouiouiouiouiouiouiouiouiou","B
+3
+https://www.ets.org/blog/science/birds-habitat/3yousavage"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_004,syntactic,wrong_to_wrong,0,0,A,A,choice,B,"A
+ی Understand why A is correct:
+
+The sentence states John felt his actions were fate. ""Fate"" refers to the idea that events are predetermined","A
+ی Understand why this is the correct answer:
+
+The question asks about what Harry could have done differently. ""Different what?"" refers to a choice"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_005,syntactic,correct_to_correct,1,1,A,A,family tree,A,"A
+tainedDentaltained
+tainedtained
+tained
+tained
+tained
+tained
+tainedtained","A
+3
+Step 3
+3"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_006,syntactic,wrong_to_wrong,0,0,C,C,disturb,D,"C
+ஈ
+做到ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","C
+ஈமேலதிகமாகச் செல்லுங்கள்
+atto कदाचितச் செல்லுங்கள்"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_016,syntactic,correct_to_correct,1,1,A,A,relaxation,A,"A
+tainedlyAlles klar. repliedEnvironmental Science","A
+tainedeeed
+ultimo"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_020,syntactic,wrong_to_wrong,0,0,C,C,confusion,D,"C
+https://www.psychologytoday.com/us/blog/psychology-today/201806/why-","C
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_024,syntactic,correct_to_correct,1,1,B,B,think,B,"B
+ஈ","B
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_030,syntactic,wrong_to_wrong,0,0,B,B,being happy,C,"B
+ஈ","B
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_001,information_order,wrong_to_wrong,0,0,B,B,table,E,"B
+ஈ
+
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","B
+ஈ அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை அறிவுரை தேவை"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_002,information_order,wrong_to_wrong,0,0,C,A,broken law,D,"C
+ replied with C.iete कदा","A
+tained
+^
+^"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_003,information_order,wrong_to_wrong,0,0,B,B,countryside,C,"B
+ஈ அறிவுரைfulfillediouiouiouiouiouiouiouiouiouiou","B
+3
+Step 3"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_004,information_order,wrong_to_wrong,0,0,A,A,choice,B,"A
+ی Understand why A is correct:
+
+The sentence states John felt his actions were fate. ""Fate"" refers to the idea that events are predetermined","A
+ی Understand why this is the correct answer:
+
+The question asks about Harry's statement about John's ability to have made a different choice"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_005,information_order,correct_to_correct,1,1,A,A,family tree,A,"A
+tainedDentaltained
+tainedtained
+tained
+tained
+tained
+tained
+tainedtained","A
+tained
+https://www.psychologytoday.com/us/blog/the-mind-explorer/2013"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_006,information_order,wrong_to_wrong,0,0,C,C,disturb,D,"C
+ஈ
+做到ஈ
+ஈ
+ஈ
+ஈ
+ஈ
+ஈ","C
+ஈ
+ Schritt.
+ प्रतीतably, the question is asking for the most appropriate word to describe the action of the father"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_016,information_order,correct_to_correct,1,1,A,A,relaxation,A,"A
+tainedlyAlles klar. repliedEnvironmental Science","A
+tainedly5"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_020,information_order,wrong_to_wrong,0,0,C,C,confusion,D,"C
+https://www.psychologytoday.com/us/blog/psychology-today/201806/why-","C
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_024,information_order,correct_to_correct,1,1,B,B,think,B,"B
+ஈ","B
+ஈ"
+Gemma-3-1B-IT,commonsense_qa,RS_COMMONSENSE_QA_030,information_order,wrong_to_correct,0,1,B,C,being happy,C,"B
+ஈ","C
+ஈ
+做到ஈ"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_001,lexical,wrong_to_wrong,0,0,120700,300,20,,"120700
+
+لبية
+tained","300
+300புலன் 300tained
+tained
+tained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_002,lexical,wrong_to_wrong,0,0,360,36,30,,"360
+360புறம்Conflict with the question. The question asks for the total number of unoccupied units.","78
+36 втра
+ intervened
+fulfilledfulfilled"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_003,lexical,wrong_to_wrong,0,0,10,10,5,,"10
+یয়
+یয়","10
+یয়
+یয়یয়"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_004,lexical,wrong_to_wrong,0,0,320,560,1596,,"1160
+atto320agno вершинаributed","112
+atto560agnotained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_005,lexical,wrong_to_wrong,0,0,36,32,5,,"54
+36백백백백백백","58
+32aceutiously manqu
+tained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_006,lexical,wrong_to_wrong,0,0,16.50,2,6,,"16.50 fulfilled3 fulfilledअંતિમ જવાબ: 16.50
+ Netanyahu","1. **Calculate the cost of packages of 3:** 18 flowers / 3 flowers/package = 6 packages
+2. **Calculate the"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_007,lexical,wrong_to_wrong,0,0,3,11,6,,"24
+32x3 அறிவுறுத்தல் कदाचितह
+ அறிவுறுத்தல் कदाचितह அறிவுறுத்தல்","11
+یepicทุกคน
+ials
+tained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_008,lexical,wrong_to_wrong,0,0,10,0.2,25,,"10%
+tainedmaintainedtainedtainedtained","0.2
+tainedtainedtainedtainedtainedtainedtainedmaintainedmaintainedmaintainedmaintained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_009,lexical,wrong_to_wrong,0,0,3,3,10,,"14
+3tained","14
+3 pennedچک
+jerne"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_010,lexical,wrong_to_wrong,0,0,30,30,90,,"120 - 90 = 30
+یeti","120 - 90 = 30
+یeti"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_001,syntactic,wrong_to_wrong,0,0,120700,30.00,20,,"120700
+
+لبية
+tained","30.00
+30.00 Nehru is a renowned historian and author, specializing in the history of India."
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_002,syntactic,wrong_to_wrong,0,0,360,32,30,,"360
+360புறம்Conflict with the question. The question asks for the total number of unoccupied units.","52
+32புறம் அறிவுரை
+ intervened"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_003,syntactic,wrong_to_wrong,0,0,10,10,5,,"10
+یয়
+یয়","10
+یয়
+یয়یয়"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_004,syntactic,wrong_to_wrong,0,0,320,360,1596,,"1160
+atto320agno вершинаributed","1680
+360
+ Nehru 
+
+r"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_005,syntactic,wrong_to_wrong,0,0,36,30,5,,"54
+36백백백백백백","60
+30 क्रमांका
+ அறிவு
+ intervened"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_006,syntactic,wrong_to_wrong,0,0,16.50,3,6,,"16.50 fulfilled3 fulfilledअંતિમ જવાબ: 16.50
+ Netanyahu","18
+3 क्रमांका
+tained"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_007,syntactic,wrong_to_wrong,0,0,3,5,6,,"24
+32x3 அறிவுறுத்தல் कदाचितह
+ அறிவுறுத்தல் कदाचितह அறிவுறுத்தல்","3. 5
+یeti"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_008,syntactic,wrong_to_wrong,0,0,10,0.2,25,,"10%
+tainedmaintainedtainedtainedtained",0.2做到 அறிவுறுத்தல் ஆண்டு intervened. அறிவுறுத்தல் ஆண்டு做到做到做到
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_009,syntactic,wrong_to_wrong,0,0,3,3,10,,"14
+3tained","12
+3 क्रमांका 12
+rappresent the number of times Sara must mow the lawn.3"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_010,syntactic,wrong_to_wrong,0,0,30,36,90,,"120 - 90 = 30
+یeti","60
+36 manque manque manqu
+ manque"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_001,information_order,wrong_to_wrong,0,0,120700,30,20,,"120700
+
+لبية
+tained","140
+30 Nehru 
+annon"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_002,information_order,wrong_to_wrong,0,0,360,32,30,,"360
+360புறம்Conflict with the question. The question asks for the total number of unoccupied units.","32
+32 втра. कदाचित அறிவு. அறிவு."
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_003,information_order,wrong_to_wrong,0,0,10,10,5,,"10
+یয়
+یয়","10 hours
+ی
+ی"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_004,information_order,wrong_to_wrong,0,0,320,380,1596,,"1160
+atto320agno вершинаributed","140
+380
+ manquee
+ سلم"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_005,information_order,wrong_to_wrong,0,0,36,36,5,,"54
+36백백백백백백","36
+36புலன். அறிவுறுத்துங்கள். அறிவுறுத்துங்கள்."
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_006,information_order,wrong_to_wrong,0,0,16.50,18,6,,"16.50 fulfilled3 fulfilledअંતિમ જવાબ: 16.50
+ Netanyahu","$1.50
+ மூன்று packages of 3 flowers cost $2.50, and 18 flowers are bought with 18"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_007,information_order,wrong_to_wrong,0,0,3,32,6,,"24
+32x3 அறிவுறுத்தல் कदाचितह
+ அறிவுறுத்தல் कदाचितह அறிவுறுத்தல்","12
+32 क्रमांका
+ அறிவு
+ intervened"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_008,information_order,wrong_to_wrong,0,0,10,0.2,25,,"10%
+tainedmaintainedtainedtainedtained","0.2做到 அறிவுறுத்தலின்படி, நான் பதில் தருகிறேன். அறிவுறுத்தலின்படி, நான் பதில் தருகிறேன். அறிவுறுத்தலின்"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_009,information_order,wrong_to_wrong,0,0,3,30,10,,"14
+3tained","12
+30چunjukچunjukچunjukچunjukچunjukچunjukچunjukچunjuk"
+Gemma-3-1B-IT,gsm8k,RS_GSM8K_010,information_order,wrong_to_wrong,0,0,30,320,90,,"120 - 90 = 30
+یeti","110
+320 manque manquetainedtained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_001,lexical,wrong_to_wrong,0,0,B,B,"Sudanese girls, French girls, French boys.",D,"B
+tained replied by the userrenece by the userI am sorry, but I cannot","B
+tained அறிவுறுத்தல்
+冲突த்தை சரிசெய்யவும்.க்குள்.ஆரம்பத்தில், ஒரு"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_002,lexical,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,"D
+tained कदा
+tained कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा","D
+tained
+tainedtainedtainedtainedtainedtainedtainedtainedtainedtainedtainedtained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_003,lexical,wrong_to_wrong,0,0,A,A,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,"A
+یয়
+-y
+y","A
+یয়
+-y
+y"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_004,lexical,wrong_to_wrong,0,0,A,A,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,"A
+ஈی","A
+ஈی"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_005,lexical,correct_to_wrong,1,0,A,D,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,"A
+tained
+மணிஆயதார்","D
+tainedtained
+tainedtainedtainedtainedtainedtainedmaintainedmaintainedmaintainedmaintainedmaintained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_006,lexical,wrong_to_wrong,0,0,A,A,b.,B,"A
+یয়
+یয়","A
+یয়
+یয়"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_007,lexical,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,"C
+tained","C
+tained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_011,lexical,wrong_to_wrong,0,0,,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,"Cवाड़ा
+Slope
+Slope
+Slope","C
+tained
+Slopeஆயதவி"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_013,lexical,correct_to_correct,1,1,C,C,At least one product is qualified.,C,"C
+ஈ
+ஈ
+ஈ
+ஈ","C
+tained
+முழுமை
+முழுமை
+முழுமை
+முழுமை"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_015,lexical,wrong_to_wrong,0,0,C,C,"All birds are not plants, humans are animals, so humans are birds.",D,"C
+tainedt️️ Climbs","C
+tainedtnnnnnnnnnnnn"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_001,syntactic,wrong_to_wrong,0,0,B,B,"Sudanese girls, French girls, French boys.",D,"B
+tained replied by the userrenece by the userI am sorry, but I cannot","B
+tained அறிவுறுத்தல்
+冲突த்தை சரிசெய்யவும். been"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_002,syntactic,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,"D
+tained कदा
+tained कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा","D
+tained कदा
+tained कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_003,syntactic,wrong_to_wrong,0,0,A,A,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,"A
+یয়
+-y
+y","A
+یয়
+-y
+y"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_004,syntactic,wrong_to_wrong,0,0,A,A,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,"A
+ஈی","A
+ஈ"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_005,syntactic,correct_to_wrong,1,0,A,C,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,"A
+tained
+மணிஆயதார்","C
+tained வாயு"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_006,syntactic,wrong_to_wrong,0,0,A,A,b.,B,"A
+یয়
+یয়","A
+یয়
+-"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_007,syntactic,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,"C
+tained","C
+tained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_011,syntactic,wrong_to_wrong,0,0,,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,"Cवाड़ा
+Slope
+Slope
+Slope","C
+tained
+முழுமைஆரம்பம்ஆரம்பம்ஆரம்பம்"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_013,syntactic,correct_to_correct,1,1,C,C,At least one product is qualified.,C,"C
+ஈ
+ஈ
+ஈ
+ஈ","C
+tained
+முழுமை
+முழுமை
+முழுமை
+முழுமை"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_015,syntactic,wrong_to_wrong,0,0,C,C,"All birds are not plants, humans are animals, so humans are birds.",D,"C
+tainedt️️ Climbs","C
+tainedt️ Climbs"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_001,information_order,wrong_to_wrong,0,0,B,B,"Sudanese girls, French girls, French boys.",D,"B
+tained replied by the userrenece by the userI am sorry, but I cannot","B
+یுங்கள்.meyiப் புரிந்து கொள்ள முடியவில்லை.یுங்கள்.
+
+冲突ம்."
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_002,information_order,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,"D
+tained कदा
+tained कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा कदा","D downloaded replied first.'suddenly, the seller insists on this claim, and the seller must agree to both"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_003,information_order,wrong_to_wrong,0,0,A,A,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,"A
+یয়
+-y
+y","A
+یয়
+-ஆனதுஆனதுஆனதுஆனதுஆனது"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_004,information_order,wrong_to_wrong,0,0,A,A,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,"A
+ஈی","A
+ஈی"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_005,information_order,correct_to_wrong,1,0,A,C,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,"A
+tained
+மணிஆயதார்","C
+tainedtained
+tainedtainedtainedtainedtainedtainedtainedmaintainedmaintainedmaintainedmaintained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_006,information_order,wrong_to_wrong,0,0,A,A,b.,B,"A
+یয়
+یয়","A
+یয়
+یয়"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_007,information_order,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,"C
+tained","C
+tained"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_011,information_order,wrong_to_wrong,0,0,,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,"Cवाड़ा
+Slope
+Slope
+Slope","C
+tained
+முழுமைஆரம்பம்ஆரம்பம்ஆரம்பம்"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_013,information_order,correct_to_correct,1,1,C,C,At least one product is qualified.,C,"C
+ஈ
+ஈ
+ஈ
+ஈ","C
+tained कदा
+tained कदा
+ कदा
+ कदा
+ कदा
+ कदा
+ कदा
+ कदा"
+Gemma-3-1B-IT,logiqa,RS_LOGIQA_015,information_order,wrong_to_wrong,0,0,C,C,"All birds are not plants, humans are animals, so humans are birds.",D,"C
+tainedt️️ Climbs","C
+tainedt️️ Climbs"
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,lexical,correct_to_correct,1,1,E,E,table,E,E.,E.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,lexical,correct_to_correct,1,1,D,D,broken law,D,D.,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,lexical,correct_to_correct,1,1,C,C,countryside,C,C,C
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,lexical,wrong_to_wrong,0,0,A,A,choice,B,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,lexical,correct_to_correct,1,1,A,A,family tree,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,lexical,correct_to_correct,1,1,D,D,disturb,D,D,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,lexical,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,lexical,wrong_to_wrong,0,0,A,A,confusion,D,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,lexical,correct_to_correct,1,1,B,B,think,B,B,B
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,lexical,wrong_to_correct,0,1,D,C,being happy,C,D,C.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,syntactic,correct_to_correct,1,1,E,E,table,E,E.,E.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,syntactic,correct_to_correct,1,1,D,D,broken law,D,D.,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,syntactic,correct_to_correct,1,1,C,C,countryside,C,C,C
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,syntactic,wrong_to_wrong,0,0,A,A,choice,B,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,syntactic,correct_to_correct,1,1,A,A,family tree,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,syntactic,correct_to_correct,1,1,D,D,disturb,D,D,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,syntactic,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,syntactic,wrong_to_wrong,0,0,A,A,confusion,D,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,syntactic,correct_to_correct,1,1,B,B,think,B,B,B
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,syntactic,wrong_to_wrong,0,0,D,D,being happy,C,D,D
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,information_order,correct_to_wrong,1,0,E,B,table,E,E.,B
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,information_order,correct_to_correct,1,1,D,D,broken law,D,D.,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,information_order,correct_to_correct,1,1,C,C,countryside,C,C,C
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,information_order,wrong_to_wrong,0,0,A,A,choice,B,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,information_order,correct_to_correct,1,1,A,A,family tree,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,information_order,correct_to_correct,1,1,D,D,disturb,D,D,D.
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,information_order,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,information_order,wrong_to_wrong,0,0,A,A,confusion,D,A,A
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,information_order,correct_to_correct,1,1,B,B,think,B,B,B
+Llama-3.2-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,information_order,wrong_to_wrong,0,0,D,D,being happy,C,D,D
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_001,lexical,wrong_to_wrong,0,0,30.00,8.00,20,,$30.00,$8.00
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_002,lexical,correct_to_wrong,1,0,30,15,30,,30,"To find the number of unoccupied units, first find the total number of occupied units and subtract that from the total number of units.
+
+Total units = 15"
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_003,lexical,wrong_to_wrong,0,0,2,2,5,,2 hours.,2
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_004,lexical,wrong_to_wrong,0,0,70,760,1596,,140 + (140 * 0.5) + (140 * 0.9 * 0.5) = 140 + 70 +,120 + 110 * 6 = 760
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_005,lexical,wrong_to_wrong,0,0,4.91,110,5,,"180 + (365 - 180) * 2 = 540
+540 / 110 = 4.91","180 + (365 - 180) = 365
+365 * 1.5 = 547.5
+547.5 / 110 ="
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_006,lexical,wrong_to_wrong,0,0,0.50,1.50,6,,$0.50,1.50
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_007,lexical,wrong_to_wrong,0,0,60,60,6,,60,60
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_008,lexical,wrong_to_wrong,0,0,0.5,0.5,25,,0.5,0.5
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_009,lexical,wrong_to_wrong,0,0,15,15,10,,15,15
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_010,lexical,correct_to_correct,1,1,90,90,90,,90,90
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_001,syntactic,wrong_to_wrong,0,0,30.00,30.00,20,,$30.00,$30.00
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_002,syntactic,correct_to_wrong,1,0,30,10,30,,30,10
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_003,syntactic,wrong_to_wrong,0,0,2,2,5,,2 hours.,2 hours
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_004,syntactic,wrong_to_wrong,0,0,70,476,1596,,140 + (140 * 0.5) + (140 * 0.9 * 0.5) = 140 + 70 +,120 + 104 + 94 + 84 + 74 + 64 = 476
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_005,syntactic,wrong_to_wrong,0,0,4.91,30,5,,"180 + (365 - 180) * 2 = 540
+540 / 110 = 4.91",30
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_006,syntactic,wrong_to_wrong,0,0,0.50,0.50,6,,$0.50,$0.50
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_007,syntactic,wrong_to_wrong,0,0,60,,6,,60,"To find the average number of pages to read per day, we need to calculate the total number of pages to be read and divide it by the number of days"
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_008,syntactic,wrong_to_wrong,0,0,0.5,0.5,25,,0.5,0.5
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_009,syntactic,wrong_to_wrong,0,0,15,,10,,15,"To find out how many times Sara must mow the lawn, we need to calculate the total amount she needs to earn.
+
+Total cost of jacket and shoes ="
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_010,syntactic,correct_to_wrong,1,0,90,60,90,,90,60
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_001,information_order,wrong_to_wrong,0,0,30.00,2.00,20,,$30.00,"To find Charlie's net profit, we need to calculate the total revenue and subtract the total cost.
+
+Total Revenue: 20 candles * $2.00 ="
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_002,information_order,correct_to_correct,1,1,30,30,30,,30,30
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_003,information_order,wrong_to_wrong,0,0,2,2,5,,2 hours.,2 hours.
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_004,information_order,wrong_to_wrong,0,0,70,1008,1596,,140 + (140 * 0.5) + (140 * 0.9 * 0.5) = 140 + 70 +,140 + 140 + 126 + 126 + 126 + 126 + 126 + 126 = 1008
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_005,information_order,wrong_to_wrong,0,0,4.91,30,5,,"180 + (365 - 180) * 2 = 540
+540 / 110 = 4.91",30
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_006,information_order,wrong_to_wrong,0,0,0.50,1,6,,$0.50,"To find the better price, we need to calculate the cost of buying 18 flowers in both options.
+
+Option 1: 2 flowers for $1"
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_007,information_order,wrong_to_wrong,0,0,60,60,6,,60,60
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_008,information_order,wrong_to_wrong,0,0,0.5,30,25,,0.5,30
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_009,information_order,wrong_to_wrong,0,0,15,20,10,,15,20
+Llama-3.2-3B-Instruct,gsm8k,RS_GSM8K_010,information_order,correct_to_wrong,1,0,90,180,90,,90,120 + 90 - (120 - 90) = 180
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_001,lexical,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_002,lexical,correct_to_wrong,1,0,D,C,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_003,lexical,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_004,lexical,wrong_to_wrong,0,0,A,C,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,A.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_005,lexical,wrong_to_wrong,0,0,B,B,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,B,B
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_006,lexical,correct_to_wrong,1,0,B,C,b.,B,B.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_007,lexical,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_011,lexical,wrong_to_wrong,0,0,C,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_013,lexical,correct_to_wrong,1,0,C,D,At least one product is qualified.,C,C,D
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_015,lexical,wrong_to_wrong,0,0,C,C,"All birds are not plants, humans are animals, so humans are birds.",D,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_001,syntactic,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_002,syntactic,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_003,syntactic,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_004,syntactic,wrong_to_wrong,0,0,A,A,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,A.,A.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_005,syntactic,wrong_to_wrong,0,0,B,B,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,B,B.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_006,syntactic,correct_to_correct,1,1,B,B,b.,B,B.,B.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_007,syntactic,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_011,syntactic,wrong_to_wrong,0,0,C,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_013,syntactic,correct_to_wrong,1,0,C,D,At least one product is qualified.,C,C,D
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_015,syntactic,wrong_to_wrong,0,0,C,C,"All birds are not plants, humans are animals, so humans are birds.",D,C.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_001,information_order,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_002,information_order,correct_to_wrong,1,0,D,C,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D.,C.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_003,information_order,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_004,information_order,wrong_to_correct,0,1,A,D,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,A.,D.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_005,information_order,wrong_to_wrong,0,0,B,B,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,B,B
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_006,information_order,correct_to_correct,1,1,B,B,b.,B,B.,B.
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_007,information_order,correct_to_wrong,1,0,C,B,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C.,B
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_011,information_order,wrong_to_wrong,0,0,C,C,Xiao Wang and Wen Li were admitted to the doctorate together.,A,C.,C
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_013,information_order,correct_to_wrong,1,0,C,D,At least one product is qualified.,C,C,D
+Llama-3.2-3B-Instruct,logiqa,RS_LOGIQA_015,information_order,wrong_to_wrong,0,0,C,A,"All birds are not plants, humans are animals, so humans are birds.",D,C.,A.
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,lexical,correct_to_correct,1,1,E,E,table,E,E,E
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,lexical,correct_to_correct,1,1,D,D,broken law,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,lexical,correct_to_correct,1,1,C,C,countryside,C,C,C
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,lexical,correct_to_wrong,1,0,B,A,choice,B,B,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,lexical,correct_to_correct,1,1,A,A,family tree,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,lexical,correct_to_correct,1,1,D,D,disturb,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,lexical,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,lexical,correct_to_correct,1,1,D,D,confusion,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,lexical,correct_to_wrong,1,0,B,C,think,B,B,C
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,lexical,correct_to_correct,1,1,C,C,being happy,C,C,C
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,syntactic,correct_to_correct,1,1,E,E,table,E,E,E
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,syntactic,correct_to_correct,1,1,D,D,broken law,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,syntactic,correct_to_wrong,1,0,C,B,countryside,C,C,B
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,syntactic,correct_to_wrong,1,0,B,A,choice,B,B,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,syntactic,correct_to_correct,1,1,A,A,family tree,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,syntactic,correct_to_correct,1,1,D,D,disturb,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,syntactic,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,syntactic,correct_to_correct,1,1,D,D,confusion,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,syntactic,correct_to_correct,1,1,B,B,think,B,B,B
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,syntactic,correct_to_wrong,1,0,C,D,being happy,C,C,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_001,information_order,correct_to_correct,1,1,E,E,table,E,E,E
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_002,information_order,correct_to_correct,1,1,D,D,broken law,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_003,information_order,correct_to_wrong,1,0,C,B,countryside,C,C,B
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_004,information_order,correct_to_wrong,1,0,B,A,choice,B,B,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_005,information_order,correct_to_correct,1,1,A,A,family tree,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_006,information_order,correct_to_correct,1,1,D,D,disturb,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_016,information_order,correct_to_correct,1,1,A,A,relaxation,A,A,A
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_020,information_order,correct_to_correct,1,1,D,D,confusion,D,D,D
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_024,information_order,correct_to_correct,1,1,B,B,think,B,B,B
+Qwen2.5-3B-Instruct,commonsense_qa,RS_COMMONSENSE_QA_030,information_order,correct_to_wrong,1,0,C,D,being happy,C,C,D
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_001,lexical,wrong_to_wrong,0,0,40,40,20,,40,40
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_002,lexical,wrong_to_wrong,0,0,270,270,30,,270,270
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_003,lexical,wrong_to_wrong,0,0,2.5,2.5,5,,2.5,2.5
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_004,lexical,wrong_to_wrong,0,0,2960,854,1596,,2960,854
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_005,lexical,wrong_to_wrong,0,0,3,3,5,,3,3
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_006,lexical,correct_to_wrong,1,0,6.0,9,6,,6.0,9
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_007,lexical,correct_to_correct,1,1,6,6,6,,6,6
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_008,lexical,wrong_to_wrong,0,0,40,80,25,,40%,80%
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_009,lexical,wrong_to_wrong,0,0,6,6,10,,6,6
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_010,lexical,wrong_to_wrong,0,0,48,80,90,,48,80
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_001,syntactic,wrong_to_correct,0,1,40,20.00,20,,40,$20.00
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_002,syntactic,wrong_to_wrong,0,0,270,60,30,,270,60
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_003,syntactic,wrong_to_wrong,0,0,2.5,2.5,5,,2.5,2.5
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_004,syntactic,wrong_to_wrong,0,0,2960,840,1596,,2960,840
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_005,syntactic,wrong_to_wrong,0,0,3,4,5,,3,4
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_006,syntactic,correct_to_wrong,1,0,6.0,6.5,6,,6.0,6.5
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_007,syntactic,correct_to_wrong,1,0,6,36,6,,6,36
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_008,syntactic,wrong_to_correct,0,1,40,25,25,,40%,25%
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_009,syntactic,wrong_to_wrong,0,0,6,6,10,,6,6
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_010,syntactic,wrong_to_wrong,0,0,48,80,90,,48,80
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_001,information_order,wrong_to_wrong,0,0,40,90,20,,40,90
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_002,information_order,wrong_to_wrong,0,0,270,24,30,,270,24
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_003,information_order,wrong_to_wrong,0,0,2.5,2,5,,2.5,2 hours
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_004,information_order,wrong_to_wrong,0,0,2960,2100,1596,,2960,2100
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_005,information_order,wrong_to_wrong,0,0,3,36,5,,3,36
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_006,information_order,correct_to_wrong,1,0,6.0,4,6,,6.0,4
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_007,information_order,correct_to_wrong,1,0,6,30,6,,6,30
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_008,information_order,wrong_to_correct,0,1,40,25,25,,40%,25%
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_009,information_order,wrong_to_wrong,0,0,6,6,10,,6,6
+Qwen2.5-3B-Instruct,gsm8k,RS_GSM8K_010,information_order,wrong_to_wrong,0,0,48,480,90,,48,480
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_001,lexical,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_002,lexical,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_003,lexical,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_004,lexical,correct_to_wrong,1,0,D,B,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,D,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_005,lexical,correct_to_correct,1,1,A,A,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,A,A
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_006,lexical,wrong_to_wrong,0,0,D,A,b.,B,D,A
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_007,lexical,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_011,lexical,wrong_to_wrong,0,0,B,B,Xiao Wang and Wen Li were admitted to the doctorate together.,A,B,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_013,lexical,correct_to_correct,1,1,C,C,At least one product is qualified.,C,C,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_015,lexical,wrong_to_wrong,0,0,A,A,"All birds are not plants, humans are animals, so humans are birds.",D,A,A
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_001,syntactic,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_002,syntactic,correct_to_correct,1,1,D,D,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_003,syntactic,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_004,syntactic,correct_to_correct,1,1,D,D,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_005,syntactic,correct_to_wrong,1,0,A,B,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,A,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_006,syntactic,wrong_to_wrong,0,0,D,A,b.,B,D,A
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_007,syntactic,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_011,syntactic,wrong_to_wrong,0,0,B,B,Xiao Wang and Wen Li were admitted to the doctorate together.,A,B,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_013,syntactic,correct_to_correct,1,1,C,C,At least one product is qualified.,C,C,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_015,syntactic,wrong_to_wrong,0,0,A,B,"All birds are not plants, humans are animals, so humans are birds.",D,A,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_001,information_order,correct_to_correct,1,1,D,D,"Sudanese girls, French girls, French boys.",D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_002,information_order,correct_to_wrong,1,0,D,C,"If neither the exchange nor the doubling of the compensation can be done, you must accept both the exchange and the doubling of the compensation.",D,D,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_003,information_order,correct_to_correct,1,1,D,D,The benefit of this trace element to human health is greater than the harm caused by the side effects of genetically modified foods.,D,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_004,information_order,correct_to_wrong,1,0,D,B,"State-owned enterprises and institutions do not provide superior working conditions for the professionals they work for, or do not pay more than the additional benefits that these professionals receive due to lower wages.",D,D,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_005,information_order,correct_to_wrong,1,0,A,B,"If there is any increase and expansion of the current polar ice, its speed is also extremely slow.",A,A,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_006,information_order,wrong_to_wrong,0,0,D,D,b.,B,D,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_007,information_order,correct_to_correct,1,1,C,C,"Some people may not have contact with SARS patients, but have contacted Xiao Li.",C,C,C
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_011,information_order,wrong_to_wrong,0,0,B,B,Xiao Wang and Wen Li were admitted to the doctorate together.,A,B,B
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_013,information_order,correct_to_wrong,1,0,C,D,At least one product is qualified.,C,C,D
+Qwen2.5-3B-Instruct,logiqa,RS_LOGIQA_015,information_order,wrong_to_wrong,0,0,A,A,"All birds are not plants, humans are animals, so humans are birds.",D,A,A

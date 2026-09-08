@@ -1,0 +1,17 @@
+{
+  "qwen_2_5_3b": {
+    "hf_id": "Qwen/Qwen2.5-3B-Instruct",
+    "trust_remote_code": false,
+    "max_new_tokens": 32
+  },
+  "llama_3_2_3b": {
+    "hf_id": "meta-llama/Llama-3.2-3B-Instruct",
+    "trust_remote_code": false,
+    "max_new_tokens": 32
+  },
+  "gemma_3_1b": {
+    "hf_id": "google/gemma-3-1b-it",
+    "trust_remote_code": false,
+    "max_new_tokens": 32
+  }
+}
