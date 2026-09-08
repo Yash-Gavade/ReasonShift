@@ -1043,12 +1043,8 @@ Human-audited transforms:    45
 Final figures:                3
 ```
 
-The repository contains the final experiment used for the ReasonShift NLP research project.
+The repository contains the final experiment used for the ReasonShift NLP Poster Presentation.
 
 ---
 
-## Citation
 
-If this repository is used as part of subsequent academic work, please cite the associated ReasonShift project/report.
-
-A formal citation will be added with the final report metadata.
