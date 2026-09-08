@@ -3,41 +3,9 @@
 ## Same Meaning, Different Answer?
 ### Evaluating LLM Robustness to Meaning-Preserving Linguistic Transformations
 
-ReasonShift is an empirical Natural Language Processing (NLP) study investigating the **linguistic robustness of small open-source instruction-tuned Large Language Models (LLMs)**.
+ReasonShift is an empirical NLP study of **linguistic robustness in small open-source instruction-tuned language models**. It asks whether a model that solves a reasoning problem correctly continues to do so when the same meaning is expressed with different wording, syntax, or information order.
 
-The central question is simple:
-
-> **If the meaning of a reasoning problem remains the same, should an LLM give the same answer when the wording changes?**
-
-Standard benchmark evaluation usually measures whether a model answers a fixed input correctly. However, natural language permits many ways of expressing the same underlying meaning. A robust reasoning system should therefore not depend strongly on superficial linguistic realization.
-
-ReasonShift evaluates this property by applying controlled **meaning-preserving lexical, syntactic, and information-order transformations** to reasoning questions from three established NLP benchmarks and measuring whether model correctness remains stable.
-
-The final experiment evaluates three open-source instruction-tuned models on a quality-controlled benchmark containing **30 question groups, 120 inputs per model, and 360 total model responses**.
-
----
-
-# 1. Motivation
-
-Large language models are commonly evaluated using aggregate benchmark accuracy. While useful, accuracy alone does not reveal whether a model's predictions are stable under alternative formulations of the same problem.
-
-Consider two semantically equivalent questions:
-
-> Original: *What object would someone normally use to cut paper?*
-
-> Reformulated: *To cut a sheet of paper, which object would a person typically use?*
-
-If the intended meaning and correct answer remain unchanged, a robust model should ideally produce the same correct prediction.
-
-However, LLM behaviour may depend on lexical choice, syntactic construction, or the ordering of information. This creates an important distinction between:
-
-**benchmark accuracy**  
-and  
-**linguistic robustness**.
-
-A model may obtain relatively high accuracy while still changing its correctness state when the same question is reformulated.
-
-ReasonShift therefore evaluates robustness at the **paired question level**, rather than relying only on aggregate accuracy.
+The study evaluates **Qwen2.5-3B-Instruct, Llama-3.2-3B-Instruct, and Gemma-3-1B-IT** on meaning-preserving reformulations of **CommonsenseQA, GSM8K, and LogiQA**. The final quality-controlled benchmark contains **30 question groups, 120 inputs per model, and 360 total model responses**. In addition to standard accuracy, ReasonShift measures paired correctness changes and strict robust accuracy to reveal instability that aggregate benchmark scores can hide.
 
 ---
 
@@ -69,7 +37,6 @@ Under a perfectly robust system, meaning-preserving transformations should not a
 
 # 4. Experimental Overview
 
-The final ReasonShift benchmark contains:
 
 | Component | Final Experiment |
 |---|---:|
@@ -80,67 +47,57 @@ The final ReasonShift benchmark contains:
 | Formulations per group | 4 |
 | Inputs per model | 120 |
 | Models | 3 |
-| Total model responses | 360 |
+| **Total model responses** | **360** |
 
-Each original question has three corresponding meaning-preserving reformulations.
+Each question group contains one original formulation and three meaning-preserving transformations:
 
-Therefore:
+- **Original:** unchanged benchmark question used as the reference.
+- **Lexical:** wording is paraphrased while preserving meaning and the correct answer.
+- **Syntactic:** grammatical structure is changed without changing the facts or reasoning requirement.
+- **Information order:** the same information is presented in a different sequence while preserving the required conclusion.
 
-```text
-30 original questions
-× 4 formulations
-= 120 inputs per model
-
-120 inputs
-× 3 models
-= 360 total model responses
-```
+Thus, `30 groups × 4 formulations = 120 inputs per model`, and `120 inputs × 3 models = 360 responses`.
 
 ---
 
-# 5. Datasets
-
-ReasonShift combines three reasoning benchmarks representing different reasoning characteristics.
-
-## 5.1 CommonsenseQA
-
-**CommonsenseQA** evaluates commonsense reasoning using multiple-choice questions that require knowledge about ordinary concepts and relationships.
-
-ReasonShift uses:
-
-```text
-10 original CommonsenseQA questions
-× 4 formulations
-= 40 model inputs
-```
-
 ---
+## 5. Methodology
 
-## 5.2 GSM8K
+### 5.1 Datasets
 
-**GSM8K** contains grade-school mathematical word problems requiring arithmetic and multi-step reasoning.
+| Dataset | Reasoning focus | Groups | Inputs |
+|---|---|---:|---:|
+| **CommonsenseQA** | Commonsense multiple-choice reasoning | 10 | 40 |
+| **GSM8K** | Mathematical word-problem reasoning | 10 | 40 |
+| **LogiQA** | Logical and deductive reasoning | 10 | 40 |
+| **Total** | — | **30** | **120** |
 
-ReasonShift uses:
+The final quality-controlled dataset is stored at `data/validated/reasonshift_dataset.csv`.
 
-```text
-10 original GSM8K questions
-× 4 formulations
-= 40 model inputs
-```
+### 5.2 Transformation Quality Control
 
----
+Meaning preservation is essential: a transformation must not change the correct answer, remove necessary information, introduce new facts, or leak the answer. Validation considered semantic equivalence, answer preservation, transformation-type validity, fluency, and answer leakage.
 
-## 5.3 LogiQA
+A stratified sample of **45 transformed inputs** was manually audited.
 
-**LogiQA** evaluates logical reasoning through questions involving constraints, relationships, and deductive reasoning.
+| Human-audit measure | Result |
+|---|---:|
+| Transformations audited | 45 |
+| Reviewed | 45/45 |
+| Accepted | 45/45 |
+| Acceptance rate | **100%** |
 
-ReasonShift uses:
+Audit artifacts are available in `audit/`, and transformation criteria are documented in `annotations/transformation_guidelines.md`.
 
-```text
-10 original LogiQA questions
-× 4 formulations
-= 40 model inputs
-```
+### 5.3 Models and Inference
+
+| Model | Hugging Face checkpoint |
+|---|---|
+| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` |
+| Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` |
+| Gemma-3-1B-IT | `google/gemma-3-1b-it` |
+
+Inference used deterministic decoding with `do_sample = false`, `max_new_tokens = 32`, and final-answer-only evaluation. Each model received the same 120 inputs. Raw generations are retained in `outputs/generations/`, parsed predictions in `outputs/parsed/`, and exact model configuration in `configs/models.json`.
 
 ---
 
