@@ -680,6 +680,9 @@ ReasonShift/
 │   └── validated/
 │       ├── reasonshift_dataset.csv
 │       └── reasonshift_dataset_manifest.txt
+├── docs/
+│   ├── ReasonShift_Poster.pdf
+│   └── ReasonShift_Research_Appendix.pdf
 ├── figures/
 │   ├── accuracy_by_transformation.png
 │   ├── flip_rate_heatmap.png
