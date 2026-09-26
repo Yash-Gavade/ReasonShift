@@ -12,7 +12,19 @@ Beyond standard benchmark accuracy, ReasonShift measures **transformation-specif
 
 ---
 
+## Research Poster and Supporting Appendix
 
+This repository accompanies my NLP research project at Universität Trier.
+
+The poster presents the research questions, experimental design, main findings, and conclusions. The supporting appendix provides further methodological details, experimental results, statistical analysis, references, and limitations.
+
+**Project documents**
+
+- [Research Poster](docs/ReasonShift_Poster.pdf)
+- [Supporting Research Appendix](docs/ReasonShift_Research_Appendix.pdf)
+
+
+The repository also contains the experimental dataset, transformation guidelines, validation records, model outputs, evaluation scripts, statistical results, and visualizations used in this study.
 # 2. Research Questions
 
 The primary research question is:
